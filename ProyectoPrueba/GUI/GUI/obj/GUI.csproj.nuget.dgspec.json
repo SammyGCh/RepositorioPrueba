@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1- INFORMACIÓN\\SOFTWARE STUFF\\C#\\ProyectoPrueba\\GUI\\GUI\\GUI.csproj": {}
+    "D:\\1- INFORMACIÓN\\UV\\CUARTO SEMESTRE\\PRINCIPIOS DE CONSTRUCCIÓN\\PROYECTO FINAL\\RepositorioPrueba\\ProyectoPrueba\\GUI\\GUI\\GUI.csproj": {}
   },
   "projects": {
-    "D:\\1- INFORMACIÓN\\SOFTWARE STUFF\\C#\\ProyectoPrueba\\GUI\\GUI\\GUI.csproj": {
+    "D:\\1- INFORMACIÓN\\UV\\CUARTO SEMESTRE\\PRINCIPIOS DE CONSTRUCCIÓN\\PROYECTO FINAL\\RepositorioPrueba\\ProyectoPrueba\\GUI\\GUI\\GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1- INFORMACIÓN\\SOFTWARE STUFF\\C#\\ProyectoPrueba\\GUI\\GUI\\GUI.csproj",
+        "projectUniqueName": "D:\\1- INFORMACIÓN\\UV\\CUARTO SEMESTRE\\PRINCIPIOS DE CONSTRUCCIÓN\\PROYECTO FINAL\\RepositorioPrueba\\ProyectoPrueba\\GUI\\GUI\\GUI.csproj",
         "projectName": "GUI",
-        "projectPath": "D:\\1- INFORMACIÓN\\SOFTWARE STUFF\\C#\\ProyectoPrueba\\GUI\\GUI\\GUI.csproj",
+        "projectPath": "D:\\1- INFORMACIÓN\\UV\\CUARTO SEMESTRE\\PRINCIPIOS DE CONSTRUCCIÓN\\PROYECTO FINAL\\RepositorioPrueba\\ProyectoPrueba\\GUI\\GUI\\GUI.csproj",
         "packagesPath": "C:\\Users\\sammy\\.nuget\\packages\\",
-        "outputPath": "D:\\1- INFORMACIÓN\\SOFTWARE STUFF\\C#\\ProyectoPrueba\\GUI\\GUI\\obj\\",
+        "outputPath": "D:\\1- INFORMACIÓN\\UV\\CUARTO SEMESTRE\\PRINCIPIOS DE CONSTRUCCIÓN\\PROYECTO FINAL\\RepositorioPrueba\\ProyectoPrueba\\GUI\\GUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sammy\\AppData\\Roaming\\NuGet\\NuGet.Config",

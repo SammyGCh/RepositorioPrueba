@@ -16,7 +16,7 @@ namespace GUI
             handleStudents.SaveStudent(s1);
             handleStudents.SaveStudent(s2);
 
-            Console.WriteLine(handleStudents.GetStudentByName("Maria").Matricula);
+            Console.WriteLine(handleStudents.GetStudentByName("Maria").Name);
         }
     }
 }
