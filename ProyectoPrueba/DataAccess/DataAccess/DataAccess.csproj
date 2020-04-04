@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BusinessContext">
+      <HintPath>..\..\BusinessContext\BusinessContext\bin\Debug\netstandard2.0\BusinessContext.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

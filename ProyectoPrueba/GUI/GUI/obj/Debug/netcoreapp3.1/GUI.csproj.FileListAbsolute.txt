@@ -1,0 +1,16 @@
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\BusinessContext.dll
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\BusinessContext.pdb
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CopyComplete
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.pdb

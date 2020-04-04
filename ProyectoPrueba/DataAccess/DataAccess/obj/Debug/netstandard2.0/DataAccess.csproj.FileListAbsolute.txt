@@ -1,0 +1,11 @@
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\bin\Debug\netstandard2.0\BusinessContext.dll
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\bin\Debug\netstandard2.0\BusinessContext.pdb
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\1- INFORMACIÓN\SOFTWARE STUFF\C#\ProyectoPrueba\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

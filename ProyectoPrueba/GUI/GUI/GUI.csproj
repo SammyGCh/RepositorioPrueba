@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BusinessContext">
+      <HintPath>..\..\BusinessContext\BusinessContext\bin\Debug\netstandard2.0\BusinessContext.dll</HintPath>
+    </Reference>
+    <Reference Include="DataAccess">
+      <HintPath>..\..\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
